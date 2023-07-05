@@ -1,4 +1,4 @@
-<img src="https://www.codewars.com/users/LizavetaSobaleva/badges/large">
+<img src="https://www.codewars.com/users/LizavetaSobaleva/badges/small">
 
 ### Hi there 👋 I'm Liza
 💪 I’m currently learning JavaScript, TypeScript, React
