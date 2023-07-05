@@ -1,4 +1,7 @@
-### Hi there 👋
+<img src="https://www.codewars.com/users/LizavetaSobaleva/badges/large">
+
+### Hi there 👋 I'm Liza
+💪 I’m currently learning JavaScript, TypeScript, React
 
 <!--
 **LizavetaSobaleva/LizavetaSobaleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
