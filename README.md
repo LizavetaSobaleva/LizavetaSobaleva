@@ -1,4 +1,5 @@
-<img src="https://www.codewars.com/users/LizavetaSobaleva/badges/large">
+<img src="https://www.codewars.com/users/LizavetaSobaleva/badges/large"> 
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Leetcode 50 Days Badge 2024" style="height: 100px;">
 
 ### Hi there 👋 I'm Liza
 💪 I’m learning JavaScript, TypeScript, React
