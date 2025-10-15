@@ -1,20 +1,25 @@
-<img src="https://www.codewars.com/users/LizavetaSobaleva/badges/large"> 
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Leetcode 50 Days Badge 2024" style="height: 100px;">
+<p align="left">
+  <img src="https://www.codewars.com/users/LizavetaSobaleva/badges/large" alt="Codewars Badge">
+</p>
+
+<p align="left">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Leetcode 50 Days Badge 2024" height="100">
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Leetcode 50 Days Badge 2025" height="100">
+</p>
+
 
 ### Hi there 👋 I'm Liza
-💪 I’m learning JavaScript, TypeScript, React
+💻 Frontend Developer focused on React & TypeScript
 
-<!--
-**LizavetaSobaleva/LizavetaSobaleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://img.shields.io/badge/React-444d56?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-444d56?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-444d56?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-444d56?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-444d56?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-444d56?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-444d56?style=flat&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-444d56?style=flat&logo=cypress&logoColor=white" />
+</p>
